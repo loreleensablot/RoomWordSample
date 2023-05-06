@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomWordSample</string>
+    <string name="fabicon">fabIcon</string>
+    <string name="sample_word">Sample Word</string>
+    <string name="edit">Edit</string>
+    <string name="empty_not_saved">Empty not saved</string>
+    <string name="save">Save</string>
+</resources>
