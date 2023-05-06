@@ -63,4 +63,7 @@ class MainActivity : AppCompatActivity() {
             ).show()
         }
     }
+
+    //Assignment:
+    //1. Add a delete functionality to the app
 }
